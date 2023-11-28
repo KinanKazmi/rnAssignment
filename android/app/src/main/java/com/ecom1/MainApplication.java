@@ -1,4 +1,4 @@
-package com.ecom;
+package com.ecom1;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
